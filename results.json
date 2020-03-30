@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "title": "Acer Spin 1 SP111-33-P88S Touchscreen Convertible Laptop",
+            "price": "$329.99"
+        },
+        {
+            "title": "HP 11.6\" Chromebook - 11+ Hour Battery - 16GB Storage - Black (11-v031nr)",
+            "price": "$179.99"
+        },
+        {
+            "title": "HP 11.6\" Windows Stream Laptop (11-ak1035nr)",
+            "price": "$179.99"
+        },
+        {
+            "title": "HP 14\" Stream Laptop Windows, 10S Touch 8+ hour battery life - (14-DS0036NR) - Royal Blue",
+            "price": "$289.99"
+        },
+        {
+            "title": "HP 14\" Touch Chromebook 11.5 hour battery life 3.39lbs (14-CA137NR), Polished White Design",
+            "price": "$279.99"
+        },
+        {
+            "title": "HP 15.6\" Pavilion Gaming Laptop - Intel Core i5-9300H - Nvidia GeForce GTX 1650 - 8GB RAM - 512 GB SSD -  Windows 10 15-dk0056nr",
+            "price": "$979.99"
+        },
+        {
+            "title": "HP 15.6\" Pavilion Gaming Laptop - Intel Core i5-9300H - Nvidia GeForce GTX 1050 - 8GB RAM - 256GB SSD - Windows 10 - 15-dk0055nr",
+            "price": "$819.99"
+        },
+        {
+            "title": "HP 15.6\" OMEN Gaming Laptop - Intel Core i7-9750H - Nvidia GeForce GTX 1650 - 8GB RAM - 512 GB SSD - Windows 10 Laptop - 15-dc1057nr",
+            "price": "$1,149.99"
+        },
+        {
+            "title": "Dell Alienware 15 R4 15.6\" Gaming Laptop Intel Core i7 8GB RAM 256GB SSD Silver  -  8th Gen i7-8750H Hexa-core - NVIDIA GeForce GTX 1060 6GB",
+            "price": "$1,724.99"
+        },
+        {
+            "title": "MSI GE63 15.6\" Gaming Laptop Core i7 16GB RAM 512GB SSD 144Hz RTX 2070 8GB - 9th Gen i7-9750H - NVIDIA GeForce RTX 2070 with 8 GB",
+            "price": "$2,099.99"
+        },
+        {
+            "title": "Microsoft Surface Pro 6 12.3\" Intel Core i7 16GB RAM 1TB SSD Platinum  -  8th Gen i7-8650U Quad-core - Laptop, tablet, or studio mode",
+            "price": "$1,993.99"
+        },
+        {
+            "title": "Dell XPS 13 13.3\" Laptop Intel Core i5 8GB RAM 256GB SSD Platinum Silver & Black - 8th Gen i5-8265U Quad-core - Intel UHD Graphics 620",
+            "price": "$869.99"
+        },
+        {
+            "title": "Lenovo IdeaPad L340 17.3\" Gaming Laptop i7-9750H 8GB RAM 512GB SSD GTX 1650 4GB - 9th Gen i7-9750H Hexa-Core - NVIDIA GeForce GTX 1650 4GB GDDR5",
+            "price": "$849.99"
+        },
+        {
+            "title": "Microsoft Surface Pro 6 12.3\" Core i7 8GB RAM 256GB SSD Platinum  -  8th Gen i7-8650U Quad-core - Laptop, tablet, or studio mode",
+            "price": "$1,049.99"
+        },
+        {
+            "title": "MSI GF65 Thin Bezel 15.6\" Gaming Laptop Intel Core i7-9750H 16GB RAM 512GB SSD 120Hz RTX 2060 Black - 9th Gen i7-9750H - NVIDIA GeForce RTX 2060 6GB",
+            "price": "$1,404.99"
+        },
+        {
+            "title": "MSI Alpha 15 15.6\" Gaming Laptop AMD Ryzen 7 16GB RAM 512GB SSD Radeon RX5500M 4GB - AMD Ryzen 7-3750H - AMD Radeon RX5500M 4GB - 144 Hz Refresh Rate",
+            "price": "$1,044.99"
+        },
+        {
+            "title": "MSI Prestige 14 A10SC-021 14\" Notebook - 3840 x 2160 - Core i7 i7-10710U - 16 GB RAM - 1 TB SSD - Gray with Blue Diamond Cut - Windows 10 Pro",
+            "price": "$1,793.99"
+        },
+        {
+            "title": "Gigabyte AERO 15 OLED XA-7US5130SP 15\" Thin Bezel Samsung UHD Amoled, i7-9750H, NVIDIA GeForce RTX 2070, Samsung 16GB RAM, 512GB Intel 760P SSD, W1...",
+            "price": "$2,856.99"
+        },
+        {
+            "title": "Asus VivoBook S15 S532FL-DB77 15.6\" Notebook - 1920 x 1080 - Core i7 i7-8565U - 12 GB RAM - 512 GB SSD - Transparent Silver - Windows 10 64-bit",
+            "price": "$1,086.99"
+        },
+        {
+            "title": "Microsoft Surface Laptop 2 13.5\" Intel Core i5 8GB RAM 256GB SSD Platinum - 8th Gen i5-8250U Quad-core - Touchscreen - Intel UHD Graphics 620",
+            "price": "$1,374.99"
+        },
+        {
+            "title": "Microsoft Surface Laptop 3 2-Piece Bundle 13.5\" Intel Core i5 8GB RAM 256GB SSD Matte Black Metal + Office 365 Personal 1 Year",
+            "price": "$1,349.99"
+        },
+        {
+            "title": "ASUS ROG Strix G 17.3\" Gaming Laptop i7-9750H 16GB RAM 512GB SSD GeForce GTX 1650 120Hz - 9th Gen i7-9750H Hexa-Core - NVIDIA GeForce GTX 1650",
+            "price": "$1,464.99"
+        },
+        {
+            "title": "ASUS ROG Strix Hero II Gaming Laptop, 15.6 144Hz IPS-Type Full HD, NVIDIA GeForce RTX 2060 6GB, Intel Core i7-8750H Processor, 16GB DDR4 RAM, 512GB...",
+            "price": "$1,999.99"
+        },
+        {
+            "title": "HP ProBook x360 11 G4 EE 11.6\" Touchscreen 2 in 1 Notebook - 1366 x 768 - Core M m3-8100Y - 8 GB RAM - 128 GB SSD - Windows 10 Home 64-bit",
+            "price": "$744.99"
+        }
+    ]
+}
